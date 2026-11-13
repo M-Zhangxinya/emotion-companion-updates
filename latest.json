@@ -1,7 +1,7 @@
 {
-    "versionName":  "1.0.6",
-    "versionCode":  7,
-    "apkUrl":  "https://github.com/M-Zhangxinya/emotion-companion-updates/releases/download/v1.0.6/emotion-companion-7.apk",
-    "sha256":  "1f660f69f10ab3c9cde657681f48760401e246aac908fcc8b7c53e9c094a62c6",
-    "notes":  "新增自定义伙伴形象上传、选择和删除；食物显示在伙伴左侧，便便显示在右侧。"
+    "versionName":  "1.0.7",
+    "versionCode":  8,
+    "apkUrl":  "https://github.com/M-Zhangxinya/emotion-companion-updates/releases/download/v1.0.7/emotion-companion-8.apk",
+    "sha256":  "2578e836343090c4d8d4cfe2c3a9833ca998f545af9fba34d8ca5a10bcb08206",
+    "notes":  "应用内更新支持断点续传，网络中断后再次下载会从已完成位置继续。"
 }
