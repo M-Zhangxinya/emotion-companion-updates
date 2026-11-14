@@ -1,7 +1,7 @@
 {
-    "versionName":  "1.0.7",
-    "versionCode":  8,
-    "apkUrl":  "https://github.com/M-Zhangxinya/emotion-companion-updates/releases/download/v1.0.7/emotion-companion-8.apk",
-    "sha256":  "2578e836343090c4d8d4cfe2c3a9833ca998f545af9fba34d8ca5a10bcb08206",
-    "notes":  "应用内更新支持断点续传，网络中断后再次下载会从已完成位置继续。"
+    "versionName":  "1.0.8",
+    "versionCode":  9,
+    "apkUrl":  "https://github.com/M-Zhangxinya/emotion-companion-updates/releases/download/v1.0.8/emotion-companion-9.apk",
+    "sha256":  "44ff66d6f1ff0285961a1d1c08c1a0d98bcd0e41cf0fe7b4aca412d28bd68026",
+    "notes":  "新增惊讶与中性情绪；食物统一为 1 经验且资源尺寸统一；历史支持正文搜索、日期定位和情绪筛选。"
 }
