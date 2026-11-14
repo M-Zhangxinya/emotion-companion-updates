@@ -1,7 +1,7 @@
 {
-    "versionName":  "1.0.9",
-    "versionCode":  10,
-    "apkUrl":  "https://github.com/M-Zhangxinya/emotion-companion-updates/releases/download/v1.0.9/emotion-companion-10.apk",
-    "sha256":  "6f28af6d8f6a5b31e646d750d471a50e81e9c8ae20cf952ad45cb75ae40040f6",
-    "notes":  "移除废弃的本地 TFLite 模型和依赖，APK 体积明显减小；保留云端情绪识别和断点续传。"
+    "versionName":  "1.0.10",
+    "versionCode":  11,
+    "apkUrl":  "https://github.com/M-Zhangxinya/emotion-companion-updates/releases/download/v1.0.10/emotion-companion-11.apk",
+    "sha256":  "1cfa5dfbc1a95c755bcfccf1e63fdfd7af4e7619b46a9071c364fdbec97a098d",
+    "notes":  "修复断点续传下载后无法调起安装的问题；本版需手动安装一次。"
 }
